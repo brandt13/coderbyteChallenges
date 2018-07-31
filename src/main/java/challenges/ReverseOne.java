@@ -5,9 +5,9 @@ import java.io.*;
 
 public class ReverseOne {
 
-    public static String FirstReverse(String str) {
+    // This challenge wants you to reverse a string
 
-        // This challenge wants you to reverse a string.
+    public static String FirstReverse(String str) {
 
         String reverse = "";
 
